@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "af868ef05490eb5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2642379621f207d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067359a9f9ba5e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atmos Decomposition/Testing/Sync Meetings/10-16-23.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70c76fae8759c6aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "63d4ad2d58e097ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28ec8d9811284580",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eaef1bb202f5a05b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22a2d854bf9a7830",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97ccc8f4f8bf6230",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c82c27e390fe6a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1d5dff6e52380d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atmos Decomposition/Testing/Sync Meetings/10-16-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18f194f9d9c3e9c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Atmos Decomposition/Testing/Sync Meetings/10-16-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87c53a0857573ed5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd5777b1c554579a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atmos Decomposition/Testing/Sync Meetings/10-16-23.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "067359a9f9ba5e0a",
+  "lastOpenFiles": [
+    "Atmos Decomposition/Testing/Sync Meetings/10-16-23.md",
+    "Atmos Decomposition/Testing/Sync Meetings/10-12-22.md",
+    "Atmos Decomposition/Testing/Sync Meetings",
+    "Untitled.md",
+    "Atmos Decomposition/Testing",
+    "Atmos Decomposition"
+  ]
+}
