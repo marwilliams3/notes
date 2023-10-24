@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2642379621f207d",
+        "id": "d94774a9cc7787d7",
         "type": "tabs",
         "children": [
           {
-            "id": "067359a9f9ba5e0a",
+            "id": "a54747dd4af15b42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Atmos Decomposition/Testing/Sync Meetings/10-16-23.md",
-                "mode": "preview",
-                "source": false
+                "file": "Kanban/MyToDos.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atmos Decomposition/Testing/Sync Meetings/10-16-23.md",
+                "file": "Kanban/MyToDos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atmos Decomposition/Testing/Sync Meetings/10-16-23.md",
+                "file": "Kanban/MyToDos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +123,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atmos Decomposition/Testing/Sync Meetings/10-16-23.md"
+                "file": "Kanban/MyToDos.md"
               }
             }
+          },
+          {
+            "id": "e5d64a25d3879ae4",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,13 +152,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067359a9f9ba5e0a",
+  "active": "28ec8d9811284580",
   "lastOpenFiles": [
-    "Atmos Decomposition/Testing/Sync Meetings/10-16-23.md",
+    "Kanban/Card-Notes/Test.md",
+    "Kanban/MyToDos.md",
+    "Kanban/Card-Notes/Something.md",
+    "Kanban/Card-Notes/Test Card 2.md",
+    "Kanban/Card-Notes",
+    "Kanban",
+    "ToDo",
+    "Atmos-Decomposition/Testing/Sync-Meetings/10-16-23.md",
+    "Atmos-Decomposition/Testing/Sync-Meetings/10-23-23.md",
     "Atmos Decomposition/Testing/Sync Meetings/10-12-22.md",
-    "Atmos Decomposition/Testing/Sync Meetings",
+    "Atmos-Decomposition/Testing/Sync-Meetings",
     "Untitled.md",
-    "Atmos Decomposition/Testing",
-    "Atmos Decomposition"
+    "Atmos-Decomposition/Testing",
+    "Atmos-Decomposition"
   ]
 }
