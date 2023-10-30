@@ -6,10 +6,12 @@ kanban-plugin: basic
 
 ## ToDo
 
+- [ ] Fill out Prudential paperwork
 
 
 ## Doing
 
+- [ ] Contract testing helm charts
 
 
 ## Review

@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/MyToDos.md"
+                "file": "Kanban/ToDos.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/MyToDos.md",
+                "file": "Kanban/ToDos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/MyToDos.md",
+                "file": "Kanban/ToDos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/MyToDos.md"
+                "file": "Kanban/ToDos.md"
               }
             }
           },
@@ -154,15 +154,15 @@
   },
   "active": "28ec8d9811284580",
   "lastOpenFiles": [
+    "Atmos-Decomposition/Testing/Sync-Meetings/10-16-23.md",
+    "Atmos-Decomposition/Testing/Sync-Meetings/10-23-23.md",
+    "Kanban/ToDos.md",
     "Kanban/Card-Notes/Test.md",
-    "Kanban/MyToDos.md",
     "Kanban/Card-Notes/Something.md",
     "Kanban/Card-Notes/Test Card 2.md",
     "Kanban/Card-Notes",
     "Kanban",
     "ToDo",
-    "Atmos-Decomposition/Testing/Sync-Meetings/10-16-23.md",
-    "Atmos-Decomposition/Testing/Sync-Meetings/10-23-23.md",
     "Atmos Decomposition/Testing/Sync Meetings/10-12-22.md",
     "Atmos-Decomposition/Testing/Sync-Meetings",
     "Untitled.md",
